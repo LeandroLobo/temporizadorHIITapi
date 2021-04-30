@@ -1,0 +1,23 @@
+{
+  "name": "temporizador-hiit-api",
+  "version": "1.0.0",
+  "description": "temporizador-hiit-api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Leandro Lobo",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.7.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
